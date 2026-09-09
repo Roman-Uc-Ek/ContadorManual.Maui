@@ -5,8 +5,7 @@
              Title="Contador Manual"
              >
 
-    <StackLayout 
-        Orientation="Vertical" 
+    <VerticalStackLayout  
        Spacing="16"
         Margin="12"
         Padding="16">
@@ -28,9 +27,7 @@
                    x:Name="ConteoLabel"/>
         </Border>
         
-        <StackLayout
-            Orientation="Horizontal"
-            
+        <HorizontalStackLayout
             HorizontalOptions="Center"
             Spacing="24"
             Margin="0,24,0,0">
@@ -43,8 +40,8 @@
                 Text="Reiniciar"
                 Clicked="OnReiniciarButtonClicked"/>
             
-        </StackLayout>
-    </StackLayout>
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
    
     
 
