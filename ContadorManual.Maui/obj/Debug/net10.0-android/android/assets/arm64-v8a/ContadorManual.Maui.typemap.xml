@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="ContadorManual.Maui" mvid="b6b6392da8af4f21a8aa90e311852e3c">
+<api type="debug" assembly-name="ContadorManual.Maui" mvid="b7f4e555f64e434891c556e408570d12">
   <java-to-managed>
     <entry java-name="crc64d2edd89c55714303/MainActivity" managed-name="ContadorManual.Maui.MainActivity, ContadorManual.Maui" managed-type-token-id="33554442" />
     <entry java-name="crc64d2edd89c55714303/MainApplication" managed-name="ContadorManual.Maui.MainApplication, ContadorManual.Maui" managed-type-token-id="33554443" />
