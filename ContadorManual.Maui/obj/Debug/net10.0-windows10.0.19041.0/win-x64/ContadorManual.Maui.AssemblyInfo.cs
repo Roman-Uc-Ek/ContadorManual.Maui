@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContadorManual.Maui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+03b4d7e0196be55981e162d7e5bc257107740070")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+904142ee95aa0399e8e18b224c3f80ce83027d20")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContadorManual.Maui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContadorManual.Maui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

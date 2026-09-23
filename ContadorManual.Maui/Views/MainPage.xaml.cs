@@ -21,4 +21,5 @@ public partial class MainPage : ContentPage
     {
 		_contador.Reiniciar();
     }
+
 }
